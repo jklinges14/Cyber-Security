@@ -15,7 +15,6 @@ Specifically, over half of all employees check their work email and communicatio
 Another 25% of employees are doing other work-related activities using work accounts and work-related applications on their personal phone.
 
 Allowing sensitive work information to be shared on employees’ personal devices has a number of security implications.
-
 You must research these security risks and use the security culture framework to develop a plan to mitigate the concerns.
 
 Cyber-Security-Assignments
@@ -29,14 +28,20 @@ Lower Case and Upper Case support
 Alphanumeric characters support
 All possible decrypt text are being displayed
 
-Assignment II
+Assignment I:
+
+Coding considerations
+
+Assignment II:
+
 Process the Windows Firewall/ Security settings to have maximum security
 All of the Processing/ modification has been performed on Windows v1709
 
-Assignment III
+Assignment III:
+
 Case Study on any Cyber crime
 I choose Online Sale of Counterfeit Products as the topic for this study.
 
-Assignemnet IV 
+Assignemnet IV:
 
 This narrative discuses training considerations.
