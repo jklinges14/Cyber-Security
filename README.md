@@ -12,8 +12,7 @@ You must research these security risks and use the security culture framework to
 Cyber-Security-Assignments
 This consists of the assignments performed under Cyber Security courseT
 
-Assignment I:   
-Modified Caeser Cipher simulation using Scilab
+Assignment I:  Modified Caeser Cipher simulation using Scilab
 
 The modifications include:
 
@@ -29,16 +28,11 @@ Alphanumeric characters support
 
 All possible decrypt text are being displayed
 
-Assignment II:
-Process the Windows Firewall/ Security settings to have maximum security
-All of the Processing/ modification has been performed on Windows v1709
+Assignment II:   Process the Windows Firewall/ Security settings to have maximum security.  All of the Processing/ modification has been performed on Windows v1709
 
-Assignment III: 
-Case Study on any Cyber crime
-I choose Online Sale of Counterfeit Products as the topic for this study.
+Assignment III:  Case Study on any Cyber crime (Online Sale of Counterfeit Products),
 
-Assignment IV: 
-This narrative discuses training considerations.
+Assignment IV:  This narrative discuses training considerations.
 
 Assignment V:  Penetration Test Reporting
 
