@@ -4,11 +4,7 @@ Homework: Assessing Security Culture
 This week we learned about security culture and how to promote it within organizations.  It’s important that all employees are aware of common security risks and treat security seriously. The majority of cyberattacks aim to exploit human weaknesses with methods like phishing.  For this reason, people are most often the weakest link in an organization’s security defenses.
 
 Scenario
-Employees at SilverCorp are increasingly using their own personal devices for company work.
-
-Specifically, over half of all employees check their work email and communications via Slack on their personal mobile phones.
-
-Another 25% of employees are doing other work-related activities using work accounts and work-related applications on their personal phone.
+Employees at SilverCorp are increasingly using their own personal devices for company work.  Specifically, over half of all employees check their work email and communications via Slack on their personal mobile phones.  Another 25% of employees are doing other work-related activities using work accounts and work-related applications on their personal phone.
 
 Allowing sensitive work information to be shared on employees’ personal devices has a number of security implications.
 You must research these security risks and use the security culture framework to develop a plan to mitigate the concerns.
