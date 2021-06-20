@@ -18,10 +18,15 @@ Modified Caeser Cipher simulation using Scilab
 The modifications include:
 
 Encryption and Decryption Key Analysis
+
 Custom Plain Text (Input) support
+
 Custom Encryption Key support
+
 Lower Case and Upper Case support
+
 Alphanumeric characters support
+
 All possible decrypt text are being displayed
 
 Assignment II:
@@ -36,3 +41,5 @@ Assignment IV:
 This narrative discuses training considerations.
 
 Assignment V:  Penetration Test Reporting
+
+Assignemnt VI: Protecting VSI from Future Attacks
