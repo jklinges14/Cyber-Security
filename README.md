@@ -38,3 +38,5 @@ I choose Online Sale of Counterfeit Products as the topic for this study.
 
 Assignment IV: 
 This narrative discuses training considerations.
+
+Assignment V:  Penetration Test Reporting
