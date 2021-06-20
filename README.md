@@ -133,4 +133,4 @@ Measuring awareness: This will include results of the quizes, participation leve
 
 Measuring behabiour: This can be achieved by simulating phishing attacks and measurig how many employees fell into the trap.
 
-Measuring culture: Performaing qualitative analysis to determine the culture of the institution by reviewing patient's feedback. Identifying recurrent topics and obtaining a sense how seriously do the employees take the cybersecurity threats. Determine whether these preceptions have changed with the implementation of new policies. I would conduct these qualitative cybersecurity culture analysis on a yearly basis.
+Measuring culture: Performing qualitative analysis to determine the culture of the institution by reviewing patient's feedback. Identifying recurrent topics and obtaining a sense how seriously do the employees take the cybersecurity threats. Determine whether these preceptions have changed with the implementation of new policies. I would conduct these qualitative cybersecurity culture analysis on a yearly basis.
