@@ -10,7 +10,7 @@ Allowing sensitive work information to be shared on employees’ personal device
 You must research these security risks and use the security culture framework to develop a plan to mitigate the concerns.
 
 Cyber-Security-Assignments
-This consists of the assignments performed under Cyber Security courseT
+This consists of the assignments performed under Cyber Security course
 
 Assignment I:  Modified Caeser Cipher simulation using Scilab
 
